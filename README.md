@@ -13,3 +13,5 @@ Also all trading bots are connected with one another with a specific logic. For 
 4. TripleSMACrossoverLongShortBot.ipynb  
 5. BOLL_RSI_MACD_LongBot.ipynb  
 6. BOLL_RSI_MACD_LongShortBot.ipynb  
+7. RNN_Long_bot.py  
+8. RNN_LongShort_bot.py

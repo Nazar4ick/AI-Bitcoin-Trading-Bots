@@ -20,4 +20,4 @@ Also all trading bots are connected with one another with a specific logic. For 
 In order to run RNN_Long_bot or RNN_LongShort_bot you should just run the responsible files.
 The result displayed in the terminal will be multiple coefficient using the bot and using Buy&Hold strategy.
 
-There is also file named RNN_model. It was used to create the model, the bots are working with. You can create and save your own model by changing parameters in the file. If you want to use bots your model, change pathfile from default value to the name of your model.
+There is also file named RNN_model. It was used to create the model, the bots are working with. You can create and save your own model by changing parameters in the file. If you want for RNN bots to use your model, change the filepath from default value to the name of your model.
